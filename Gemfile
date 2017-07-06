@@ -45,3 +45,18 @@ group :development do
   gem 'spring'
 end
 
+# ***************************************our gems**************************************************************
+# *************************************************************************************************************
+
+# styles~
+gem 'bootstrap-sass'
+gem 'font-awesome-rails'
+
+# annotate models 
+gem 'annotate'
+
+# user accounts
+gem 'devise'
+
+# picture uploads
+gem 'paperclip'
